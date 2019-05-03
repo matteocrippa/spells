@@ -1,5 +1,7 @@
 #!/usr/bin/env sh
 feh --bg-fill ~/.spells/wallpaper/07.jpg
+betterlockscreen -u ~/.spells/wallpaper/07.jpg
+
 
 #case $(date +%_H | sed 's/ //') in
 #    0|1|2|3|4)
